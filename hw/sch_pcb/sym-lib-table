@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name PROGLOG01A-rescue)(type Legacy)(uri ${KIPRJMOD}/PROGLOG01A-rescue.lib)(options "")(descr ""))
+  (lib (name "PROGLOG01A-rescue")(type "Legacy")(uri "${KIPRJMOD}/PROGLOG01B-rescue.lib")(options "")(descr ""))
 )
