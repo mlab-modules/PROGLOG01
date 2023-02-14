@@ -16,6 +16,7 @@ images:
 - doc/img/PROGLOG01A_QRcode.png
 - doc/gen/PROGLOG01A-schematic.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/PROGLOG01A-ibom.html
 mod_scheme: doc/gen/PROGLOG01A-schematic.pdf
 tags: []
 title: PROGLOG01
