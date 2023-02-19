@@ -61,7 +61,7 @@ Used tracks:
 
 - 0.25 mm (10 mils) (288) defined: yes
 - 0.4 mm (16 mils) (17) defined: no
-- 0.5 mm (20 mils) (252) defined: no
+- 0.5 mm (20 mils) (248) defined: no
 
 Defined vias:
 
