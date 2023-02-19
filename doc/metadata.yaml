@@ -1,5 +1,5 @@
 description: Module with a small low-power programmable gate-array
-github_branch: PROGLOG01A
+github_branch: PROGLOG01B
 github_repo: PROGLOG01
 github_url: https://github.com/mlab-modules/PROGLOG01
 homepage: false
@@ -17,6 +17,6 @@ images:
 - doc/gen/PROGLOG01A-schematic.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PROGLOG01A-ibom.html
-mod_scheme: doc/gen/PROGLOG01A-schematic.pdf
+mod_scheme: doc/gen/PROGLOG01B-schematic.pdf
 tags: []
 title: PROGLOG01
