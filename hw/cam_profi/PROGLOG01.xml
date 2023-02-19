@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PROGLOG01.kicad_sch</source>
-    <date>Sun Feb 19 23:02:06 2023</date>
+    <date>Sun Feb 19 23:30:07 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1329,12 +1329,12 @@
     <net code="40" name="/SPI_SI">
       <node ref="J4" pin="4" pintype="input"/>
       <node ref="U3" pin="5" pinfunction="SI/IO0" pintype="bidirectional"/>
-      <node ref="U4" pin="17" pinfunction="IOB_33b_SPI_SI" pintype="bidirectional"/>
+      <node ref="U4" pin="14" pinfunction="IOB_32a_SPI_SO" pintype="bidirectional"/>
     </net>
     <net code="41" name="/SPI_SO">
       <node ref="J4" pin="6" pintype="input"/>
       <node ref="U3" pin="2" pinfunction="SO/IO1" pintype="bidirectional"/>
-      <node ref="U4" pin="14" pinfunction="IOB_32a_SPI_SO" pintype="bidirectional"/>
+      <node ref="U4" pin="17" pinfunction="IOB_33b_SPI_SI" pintype="bidirectional"/>
     </net>
     <net code="42" name="/SPI_SS">
       <node ref="J4" pin="2" pintype="input"/>
@@ -1424,7 +1424,7 @@
       <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
     <net code="52" name="unconnected-(U4-Pad7)">
-      <node ref="U4" pin="7" pinfunction="CDONE" pintype="open_collector"/>
+      <node ref="U4" pin="7" pinfunction="CDONE" pintype="open_collector+no_connect"/>
     </net>
   </nets>
 </export>

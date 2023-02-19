@@ -59,16 +59,16 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (288) defined: yes
+- 0.25 mm (10 mils) (279) defined: yes
 - 0.4 mm (16 mils) (17) defined: no
-- 0.5 mm (20 mils) (248) defined: no
+- 0.5 mm (20 mils) (245) defined: no
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 57, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 56, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
@@ -84,7 +84,7 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (57)
+- 0.5 mm (20 mils) (56)
 - 0.85 mm (33 mils) (7)
 - 1.0 mm (39 mils) (76)
 - 1.1 mm (43 mils) (4)
