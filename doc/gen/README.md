@@ -5,7 +5,7 @@ Board size: 60.45x40.13 mm (2.38x1.58 inches)
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
 - Material: FR4
-- Finish: HAL
+- Finish: None
 - Layers: 2
 - Copper thickness: 35 µm
 
@@ -17,6 +17,20 @@ Silk screen: TOP / BOTTOM
 
 - Color: White
 
+
+Stackup:
+
+| Name                 | Type                 | Color            | Thickness | Material        | Epsilon_r | Loss tangent |
+|----------------------|----------------------|------------------|-----------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |                  |           |                 |           |              |
+| F.Paste              | Top Solder Paste     |                  |           |                 |           |              |
+| F.Mask               | Top Solder Mask      |                  |        10 |                 |           |              |
+| F.Cu                 | copper               |                  |        35 |                 |           |              |
+| dielectric 1         | core                 |                  |      1510 | FR4             |       4.5 |        0.020 |
+| B.Cu                 | copper               |                  |        35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |                  |        10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |                  |           |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |                  |           |                 |           |              |
 
 # Important sizes
 
@@ -56,19 +70,20 @@ Components count: (SMD/THT)
 Defined tracks:
 
 - 0.25 mm (10 mils)
+- 0.5 mm (20 mils)
 
 Used tracks:
 
-- 0.25 mm (10 mils) (279) defined: yes
+- 0.25 mm (10 mils) (268) defined: yes
 - 0.4 mm (16 mils) (17) defined: no
-- 0.5 mm (20 mils) (245) defined: no
+- 0.5 mm (20 mils) (240) defined: yes
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 56, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 58, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
@@ -84,7 +99,7 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (56)
+- 0.5 mm (20 mils) (58)
 - 0.85 mm (33 mils) (7)
 - 1.0 mm (39 mils) (76)
 - 1.1 mm (43 mils) (4)
