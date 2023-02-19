@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "6.0.10+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-02-14T08:10:15+00:00"
+    "CreationDate": "2023-02-19T21:59:10+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "PROGLOG01B",
-      "GUID": "50524f47-4c4f-4473-9031-422e6b696361",
+      "Name": "PROGLOG01",
+      "GUID": "50524f47-4c4f-4473-9031-2e6b69636164",
       "Revision": "REV"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "PROGLOG01B-Edge_Cuts.gbr",
+      "Path": "PROGLOG01-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-F_Cu.gbr",
+      "Path": "PROGLOG01-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-B_Cu.gbr",
+      "Path": "PROGLOG01-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-F_Mask.gbr",
+      "Path": "PROGLOG01-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "PROGLOG01B-B_Mask.gbr",
+      "Path": "PROGLOG01-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "PROGLOG01B-F_Silkscreen.gbr",
+      "Path": "PROGLOG01-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-B_Silkscreen.gbr",
+      "Path": "PROGLOG01-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-F_Paste.gbr",
+      "Path": "PROGLOG01-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PROGLOG01B-B_Paste.gbr",
+      "Path": "PROGLOG01-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
