@@ -2,11 +2,11 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PROGLOG01.kicad_sch</source>
-    <date>Sun Feb 19 21:59:58 2023</date>
+    <date>Sun Feb 19 23:02:06 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>PROGLOG01A</title>
+        <title>PROGLOG01B</title>
         <company>Mlab www.mlab.cz</company>
         <rev/>
         <date>2022-02-13</date>
@@ -717,9 +717,9 @@
       <tstamps>00000000-0000-0000-0000-00005e086457</tstamps>
     </comp>
     <comp ref="U4">
-      <value>ICE40UP5K-SG48ITR</value>
+      <value>ICE40UP5K-SG48I</value>
       <footprint>Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</footprint>
-      <datasheet>file:///home/kaklik/Downloads/FPGA-DS-02008-1-9-iCE40-UltraPlus-Family-Data-Sheet.pdf</datasheet>
+      <datasheet>https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40%20UltraPlus%20Family%20Data%20Sheet.pdf?document_id=51968</datasheet>
       <fields>
         <field name="UST_ID">5dc504cb128750448eca1b12</field>
       </fields>
