@@ -2,7 +2,7 @@
 # PROGLOG01B - Small low-power open-source tool chain compatible FPGA
 
 <!--- Lead --->
-Module with a small programmable gate-array
+Module with a small programmable gate-array [ICE40UP5K](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus).
 <!--- ELead --->
 
 ![PROGLOG01B top side](doc/gen/img/PROGLOG01-top.png)
