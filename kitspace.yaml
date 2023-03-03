@@ -1,4 +1,4 @@
-bom: ''
+bom: hw/sch_pcb/PROGLOG01.kicad_pcb
 color: white
 eda:
   pcb: hw/sch_pcb/PROGLOG01.kicad_pcb
