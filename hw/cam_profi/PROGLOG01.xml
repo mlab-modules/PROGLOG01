@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PROGLOG01.kicad_sch</source>
-    <date>Sun Feb 19 23:44:50 2023</date>
+    <date>Fri Mar  3 23:41:51 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -39,7 +39,7 @@
     </comp>
     <comp ref="C2">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="UST_id">C0805_100n</field>
@@ -54,7 +54,7 @@
     </comp>
     <comp ref="C3">
       <value>10uF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
       </fields>
@@ -67,12 +67,12 @@
     </comp>
     <comp ref="C4">
       <value>1uF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,7 +80,7 @@
     </comp>
     <comp ref="C5">
       <value>10uF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
       </fields>
@@ -93,7 +93,7 @@
     </comp>
     <comp ref="C6">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -106,7 +106,7 @@
     </comp>
     <comp ref="C7">
       <value>10nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
       </fields>
@@ -119,7 +119,7 @@
     </comp>
     <comp ref="C8">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -132,7 +132,7 @@
     </comp>
     <comp ref="C9">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -145,7 +145,7 @@
     </comp>
     <comp ref="C10">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -534,7 +534,7 @@
     </comp>
     <comp ref="R1">
       <value>10k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
@@ -547,7 +547,7 @@
     </comp>
     <comp ref="R2">
       <value>0R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
       </fields>
@@ -560,7 +560,7 @@
     </comp>
     <comp ref="R3">
       <value>0R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
       </fields>
@@ -573,7 +573,7 @@
     </comp>
     <comp ref="R4">
       <value>100R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
@@ -586,7 +586,7 @@
     </comp>
     <comp ref="R5">
       <value>10k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
@@ -599,7 +599,7 @@
     </comp>
     <comp ref="R6">
       <value>10k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
@@ -612,7 +612,7 @@
     </comp>
     <comp ref="R7">
       <value>100R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
@@ -625,7 +625,7 @@
     </comp>
     <comp ref="R8">
       <value>100R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
@@ -638,7 +638,7 @@
     </comp>
     <comp ref="R9">
       <value>200R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f897d</field>
       </fields>
@@ -651,7 +651,7 @@
     </comp>
     <comp ref="R10">
       <value>200R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f897d</field>
       </fields>
@@ -728,7 +728,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005d8c3e7c 00000000-0000-0000-0000-00005d8c3df4 00000000-0000-0000-0000-00005d8c3d71 00000000-0000-0000-0000-00005d8c3cd5</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005d8c3df4 00000000-0000-0000-0000-00005d8c3d71 00000000-0000-0000-0000-00005d8c3e7c 00000000-0000-0000-0000-00005d8c3cd5</tstamps>
     </comp>
     <comp ref="X1">
       <value>ISM92-3351AH24.00</value>

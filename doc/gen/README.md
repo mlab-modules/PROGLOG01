@@ -50,7 +50,8 @@ Via: 0.8/0.4 mm (31/16 mils)
 
 - By design rules: 0.4/0.3 mm (16/12 mils)
 - Micro via: no [0.2/0.1 mm (8/4 mils)]
-- Burried/blind via: no
+- Buried/blind via: no
+- Total: 58 (thru: 58 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.13 mm (5 mils)
 
@@ -74,9 +75,9 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (268) defined: yes
-- 0.4 mm (16 mils) (17) defined: no
-- 0.5 mm (20 mils) (240) defined: yes
+- 0.25 mm (10 mils) (244) defined: yes
+- 0.4 mm (16 mils) (14) defined: no
+- 0.5 mm (20 mils) (217) defined: yes
 
 Defined vias:
 
