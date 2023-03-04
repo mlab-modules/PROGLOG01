@@ -1,3 +1,4 @@
+[![Kicad - production files generator](https://github.com/mlab-modules/PROGLOG01/actions/workflows/kicad_outputs.yml/badge.svg)](https://github.com/mlab-modules/PROGLOG01/actions/workflows/kicad_outputs.yml)
 
 # PROGLOG01B - Small low-power open-source tool chain compatible FPGA
 
