@@ -1571,7 +1571,6 @@
     )
   )
 
-
   (junction (at 95.25 172.72) (diameter 0) (color 0 0 0 0)
     (uuid 014d13cd-26ad-4d0e-86ad-a43b541cab14)
   )
@@ -4626,7 +4625,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering" (id 2) (at 53.34 172.72 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 53.34 172.72 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps22919.pdf" (id 3) (at 53.34 172.72 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "UST_ID" "5dc501ee128750448eca1add" (id 4) (at 52.07 171.45 0)
