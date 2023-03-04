@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PROGLOG01.kicad_sch</source>
-    <date>Sat Mar  4 02:17:43 2023</date>
+    <date>Sat Mar  4 10:41:57 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -678,6 +678,7 @@
     <comp ref="U1">
       <value>TPS22919DCK</value>
       <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tps22919.pdf</datasheet>
       <fields>
         <field name="UST_ID">5dc501ee128750448eca1add</field>
       </fields>
