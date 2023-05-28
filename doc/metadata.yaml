@@ -22,6 +22,7 @@ images:
 - hw/cam_profi/docs/PROGLOG01B-assembly_page_01.svg
 - doc/gen/PROGLOG01-schematic.svg
 - doc/gen/img/PROGLOG01-top.svg
+- doc/gen/img/PROGLOG01-bottom.svg
 issues: 3
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PROGLOG01-ibom.html
