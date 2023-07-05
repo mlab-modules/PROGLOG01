@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PROGLOG01.kicad_sch</source>
-    <date>Wed Jul  5 12:19:54 2023</date>
-    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
+    <date>Wed Jul  5 14:48:27 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>PROGLOG01B</title>
@@ -34,6 +34,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db4d28c</tstamps>
     </comp>
@@ -49,6 +51,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005562302c</tstamps>
     </comp>
@@ -62,6 +66,8 @@
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055623093</tstamps>
     </comp>
@@ -75,6 +81,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db54f12</tstamps>
     </comp>
@@ -88,6 +96,8 @@
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dbd632c</tstamps>
     </comp>
@@ -101,6 +111,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8c65fd</tstamps>
     </comp>
@@ -114,6 +126,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da72306</tstamps>
     </comp>
@@ -127,6 +141,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db40afc</tstamps>
     </comp>
@@ -140,6 +156,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db41ca5</tstamps>
     </comp>
@@ -153,6 +171,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db5839b</tstamps>
     </comp>
@@ -179,6 +199,8 @@
       <property name="UST_ID" value="5c70984412875079b91f8897"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8d5bc0</tstamps>
     </comp>
@@ -192,6 +214,8 @@
       <property name="UST_ID" value="5c70984512875079b91f8898"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8d5b1b</tstamps>
     </comp>
@@ -201,6 +225,8 @@
       <libsource lib="MLAB_Jumpers" part="JUMP_3X2" description="MLAB modified doubled pinheader connector"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="MLAB modified doubled pinheader connector"/>
+      <property name="ki_keywords" value="JUMPER PINHEADER"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b4dde60</tstamps>
     </comp>
@@ -210,6 +236,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01" description="2x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005e0f2c1b</tstamps>
     </comp>
@@ -219,6 +247,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x02, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db90bea</tstamps>
     </comp>
@@ -228,6 +258,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x04" description="2x04 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x04 2.54 mm pitch header"/>
+      <property name="ki_keywords" value="2x04, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da2ff1e</tstamps>
     </comp>
@@ -237,6 +269,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db8b435</tstamps>
     </comp>
@@ -246,6 +280,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db8b7ff</tstamps>
     </comp>
@@ -255,6 +291,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db92eaf</tstamps>
     </comp>
@@ -264,6 +302,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db9a561</tstamps>
     </comp>
@@ -273,6 +313,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db96088</tstamps>
     </comp>
@@ -282,6 +324,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db9e862</tstamps>
     </comp>
@@ -291,6 +335,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dba7042</tstamps>
     </comp>
@@ -300,6 +346,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dba1ca3</tstamps>
     </comp>
@@ -309,6 +357,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dba9359</tstamps>
     </comp>
@@ -318,6 +368,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da7e83f</tstamps>
     </comp>
@@ -327,6 +379,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da85290</tstamps>
     </comp>
@@ -336,6 +390,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da85297</tstamps>
     </comp>
@@ -345,6 +401,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8529e</tstamps>
     </comp>
@@ -354,6 +412,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da852a5</tstamps>
     </comp>
@@ -363,6 +423,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da852ac</tstamps>
     </comp>
@@ -372,6 +434,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8c249</tstamps>
     </comp>
@@ -381,6 +445,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8c250</tstamps>
     </comp>
@@ -390,6 +456,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8c257</tstamps>
     </comp>
@@ -399,6 +467,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8c25e</tstamps>
     </comp>
@@ -408,6 +478,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da8c265</tstamps>
     </comp>
@@ -430,6 +502,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db17a62</tstamps>
     </comp>
@@ -439,6 +513,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db1ecba</tstamps>
     </comp>
@@ -448,6 +524,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db6d6c2</tstamps>
     </comp>
@@ -457,6 +535,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db6d6c9</tstamps>
     </comp>
@@ -466,6 +546,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db748eb</tstamps>
     </comp>
@@ -475,6 +557,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db748f2</tstamps>
     </comp>
@@ -484,6 +568,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db7bd67</tstamps>
     </comp>
@@ -493,6 +579,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db7bd6e</tstamps>
     </comp>
@@ -502,6 +590,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
     </comp>
@@ -511,6 +600,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
     </comp>
@@ -520,6 +610,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
     </comp>
@@ -529,6 +620,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
     </comp>
@@ -542,6 +634,8 @@
       <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005e10e9a6</tstamps>
     </comp>
@@ -555,6 +649,8 @@
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dbb9f9c</tstamps>
     </comp>
@@ -568,6 +664,8 @@
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dbba094</tstamps>
     </comp>
@@ -581,6 +679,8 @@
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8c5587</tstamps>
     </comp>
@@ -594,6 +694,8 @@
       <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d98fe0c</tstamps>
     </comp>
@@ -607,6 +709,8 @@
       <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da42e0b</tstamps>
     </comp>
@@ -620,6 +724,8 @@
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dcf334f</tstamps>
     </comp>
@@ -633,6 +739,8 @@
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dcdb9b6</tstamps>
     </comp>
@@ -646,6 +754,8 @@
       <property name="UST_ID" value="5c70984512875079b91f897d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8d8e38</tstamps>
     </comp>
@@ -659,6 +769,8 @@
       <property name="UST_ID" value="5c70984512875079b91f897d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8d8ead</tstamps>
     </comp>
@@ -672,6 +784,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8ad1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da31d36</tstamps>
     </comp>
@@ -700,6 +814,8 @@
       <property name="UST_ID" value="5dc5036e128750448eca1af0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="300mA Low-dropout Voltage Regulator, Vout 1.2V, Vin up to 5.5V, SOT-23"/>
+      <property name="ki_keywords" value="Micrel LDO voltage regulator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005db46f40</tstamps>
     </comp>
@@ -714,6 +830,8 @@
       <property name="UST_ID" value="5dc503e8128750448eca1b04"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8"/>
+      <property name="ki_keywords" value="SPI DSPI QSPI 8Mbit 2.5V"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005e086457</tstamps>
     </comp>
@@ -728,6 +846,8 @@
       <property name="UST_ID" value="5dc504cb128750448eca1b12"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="iCE40 UltraPlus FPGA, 5280 LUTs, 1.2V, 48-pin QFN"/>
+      <property name="ki_keywords" value="FPGA programmable logic"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d8c3df4 00000000-0000-0000-0000-00005d8c3d71 00000000-0000-0000-0000-00005d8c3e7c 00000000-0000-0000-0000-00005d8c3cd5</tstamps>
     </comp>
@@ -742,6 +862,8 @@
       <property name="UST_ID" value="5c70984712875079b91f8b18"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PROGLOG01.kicad_sch"/>
+      <property name="ki_description" value="HCMOS Clock Oscillator"/>
+      <property name="ki_keywords" value="Crystal Clock Oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005da56edd</tstamps>
     </comp>
@@ -1393,24 +1515,24 @@
       <node ref="U4" pin="49" pinfunction="GND" pintype="power_in"/>
       <node ref="X1" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="47" name="Net-(C5-Pad1)">
+    <net code="47" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(U3-~{HOLD}{slash}IO3)">
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="~{HOLD}/IO3" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="Net-(U4D-VCCPLL)">
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="U4" pin="29" pinfunction="VCCPLL" pintype="power_out"/>
-    </net>
-    <net code="48" name="Net-(D2-Pad1)">
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R9" pin="1" pintype="passive"/>
-    </net>
-    <net code="49" name="Net-(D3-Pad1)">
-      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R10" pin="1" pintype="passive"/>
-    </net>
-    <net code="50" name="Net-(J2-Pad1)">
-      <node ref="J2" pin="1" pintype="input"/>
-      <node ref="R1" pin="2" pintype="passive"/>
-      <node ref="U3" pin="7" pinfunction="~{HOLD}/IO3" pintype="bidirectional"/>
     </net>
     <net code="51" name="unconnected-(C3-Pad1)">
       <node ref="C3" pin="1" pintype="passive"/>
@@ -1418,10 +1540,10 @@
     <net code="52" name="unconnected-(C3-Pad2)">
       <node ref="C3" pin="2" pintype="passive"/>
     </net>
-    <net code="53" name="unconnected-(U2-Pad4)">
+    <net code="53" name="unconnected-(U2-NC-Pad4)">
       <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="54" name="unconnected-(U4-Pad7)">
+    <net code="54" name="unconnected-(U4B-CDONE-Pad7)">
       <node ref="U4" pin="7" pinfunction="CDONE" pintype="open_collector+no_connect"/>
     </net>
   </nets>
