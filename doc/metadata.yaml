@@ -8,21 +8,21 @@ github_url: https://github.com/mlab-modules/PROGLOG01
 homepage: false
 image: doc/img/PROGLOG01A_bot_big.jpg
 images:
-- doc/img/PROGLOG01A_bot_big.jpg
 - doc/img/PROGLOG01A_top_big.jpg
 - doc/img/20200121_193658.jpg
-- doc/img/20200121_193715.jpg
 - doc/img/20200121_193634.jpg
-- doc/img/20191115_233044.jpg
+- doc/img/PROGLOG01A_bot_big.jpg
+- doc/img/20200121_193715.jpg
 - doc/img/20191115_233056.jpg
+- doc/img/20191115_233044.jpg
 - doc/img/PROGLOG01A_QRcode.png
 - doc/gen/img/PROGLOG01-top.png
 - doc/gen/img/PROGLOG01-bottom.png
 - doc/gen/PROGLOG01-schematic.svg
-- doc/gen/img/PROGLOG01-top.svg
 - doc/gen/img/PROGLOG01-bottom.svg
-- hw/cam_profi/docs/PROGLOG01B-assembly_page_02.svg
+- doc/gen/img/PROGLOG01-top.svg
 - hw/cam_profi/docs/PROGLOG01B-assembly_page_01.svg
+- hw/cam_profi/docs/PROGLOG01B-assembly_page_02.svg
 issues: 3
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PROGLOG01-ibom.html
