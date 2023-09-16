@@ -27,7 +27,7 @@ issues: 3
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PROGLOG01-ibom.html
 mod_scheme: doc/gen/PROGLOG01-schematic.pdf
-status: 0
+status: 2
 tags:
 - fpga
 - fpga-programming
