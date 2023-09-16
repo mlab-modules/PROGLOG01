@@ -6,7 +6,7 @@ github_branches:
 github_repo: PROGLOG01
 github_url: https://github.com/mlab-modules/PROGLOG01
 homepage: false
-image: doc/img/PROGLOG01A_bot_big.jpg
+image_title: doc/img/PROGLOG01A_bot_big.jpg
 images:
 - doc/img/PROGLOG01A_top_big.jpg
 - doc/img/20200121_193658.jpg
